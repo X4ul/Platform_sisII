@@ -11,6 +11,7 @@ class Car extends Migration
      *
      * @return void
      */
+    //Saul Soto Alvarez
     public function up()
     {
         Schema::defaultStringLength(191);
